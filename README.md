@@ -20,8 +20,6 @@ React improves the creation of custom components, which you can render throughou
 
 (You can find the clock icon on the left of the component in Font Awesome)
 
-Given an index.html document, the app.js file must modify the DOM in order to:
-
 ##### REMEMBER: 
 
 Once the progress and flow of the project is finished, you must commit and push the repository remotely, using the following command:
