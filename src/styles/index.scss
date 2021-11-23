@@ -1,0 +1,20 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.counter{
+    text-align: center;
+    background: black;
+    height: 100vh;
+}
+
+.counter div{
+    padding: 20px;
+    margin: 3px;
+    color:white;
+    font-size: 100px;
+    line-height: 60px;
+}
+
+p{
+    color:yellow;
+    font-size: 100px;
+}
